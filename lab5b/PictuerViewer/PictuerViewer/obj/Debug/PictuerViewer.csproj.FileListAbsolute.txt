@@ -1,0 +1,11 @@
+C:\Users\mdtgo\Documents\bishops\winter2023\advanced programming\lab5b\PictuerViewer\PictuerViewer\bin\Debug\PictuerViewer.exe.config
+C:\Users\mdtgo\Documents\bishops\winter2023\advanced programming\lab5b\PictuerViewer\PictuerViewer\bin\Debug\PictuerViewer.exe
+C:\Users\mdtgo\Documents\bishops\winter2023\advanced programming\lab5b\PictuerViewer\PictuerViewer\bin\Debug\PictuerViewer.pdb
+C:\Users\mdtgo\Documents\bishops\winter2023\advanced programming\lab5b\PictuerViewer\PictuerViewer\obj\Debug\PictuerViewer.csproj.AssemblyReference.cache
+C:\Users\mdtgo\Documents\bishops\winter2023\advanced programming\lab5b\PictuerViewer\PictuerViewer\obj\Debug\PictuerViewer.csproj.SuggestedBindingRedirects.cache
+C:\Users\mdtgo\Documents\bishops\winter2023\advanced programming\lab5b\PictuerViewer\PictuerViewer\obj\Debug\PictuerViewer.Form1.resources
+C:\Users\mdtgo\Documents\bishops\winter2023\advanced programming\lab5b\PictuerViewer\PictuerViewer\obj\Debug\PictuerViewer.Properties.Resources.resources
+C:\Users\mdtgo\Documents\bishops\winter2023\advanced programming\lab5b\PictuerViewer\PictuerViewer\obj\Debug\PictuerViewer.csproj.GenerateResource.cache
+C:\Users\mdtgo\Documents\bishops\winter2023\advanced programming\lab5b\PictuerViewer\PictuerViewer\obj\Debug\PictuerViewer.csproj.CoreCompileInputs.cache
+C:\Users\mdtgo\Documents\bishops\winter2023\advanced programming\lab5b\PictuerViewer\PictuerViewer\obj\Debug\PictuerViewer.exe
+C:\Users\mdtgo\Documents\bishops\winter2023\advanced programming\lab5b\PictuerViewer\PictuerViewer\obj\Debug\PictuerViewer.pdb
